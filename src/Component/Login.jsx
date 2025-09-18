@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 
 const Login = () => {
     return (
-        <div className='px-4 sm:flex-col border h-screen'>
+        <div className='px-6 py-8 max-w-md mx-auto border h-[99vh]'>
             <div>
                 <h1 className='font-medium pt-5 text-2xl'>
                     Sign in to your <br /> PopX account

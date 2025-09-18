@@ -2,7 +2,7 @@ import React from 'react'
 
 const Profile = () => {
   return (
-    <div>
+    <div className='px-6 py-8 max-w-md mx-auto '>
         <div>
             <h1 className='h-14 bg-white p-3 text-left  sm:h-12 sm:p-3 text-xl font-semibold'>Account Setting</h1>
         </div>
