@@ -8,7 +8,7 @@ const Profile = () => {
         </div>
         <div  className='bg-gray-200 h-screen px-2'>
             <div className='pt-5 flex items-center gap-5'>
-            <img className='rounded-full h-20 w-20' src="public/download.jpg" alt="" />
+            <img className='rounded-full h-20 w-20' src="download.jpg" alt="" />
               <div className='flex flex-col'>
             <h1 className='font-semibold'>Marry Doe</h1>
             <p>Marry@Gmail.com</p>
